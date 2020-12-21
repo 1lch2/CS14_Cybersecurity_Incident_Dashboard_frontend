@@ -1,8 +1,6 @@
 # Cybersecurity Incident Dashboard - frontend
 This is the frontend repository of capstone project CS14.
 
-**Project is in progress, the GUI may not be the final version.**
-
 ## Setup
 ### Install NodeJS
 **Make sure you install NodeJS first!**
